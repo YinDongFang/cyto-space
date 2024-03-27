@@ -1,6 +1,6 @@
 {
   "name": "cyto-space",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,7 @@
     "vue": "^3.4.21",
     "is-base": "^1.0.0",
     "thisispro": "^1.0.0",
-    "cyto": "^1.0.0"
+    "cyto": "^1.0.0",
+    "cyto-extensions": "^1.0.0"
   }
 }
